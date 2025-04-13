@@ -1,5 +1,5 @@
 name: CI & Docker Build
-# Add comment
+# Git hub action for Python
 on:
   push:
     branches: [ "main" ]
