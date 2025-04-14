@@ -1,5 +1,5 @@
 name: CI & Docker Build
-# Github action Python assignment.
+# Github action for Python assignment.
 on:
   push:
     branches: [ "main" ]
