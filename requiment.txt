@@ -1,4 +1,1 @@
-Requiment to run this app:
--> python==3.7+
--> tkinter==
- 
+tk==0.1.0
